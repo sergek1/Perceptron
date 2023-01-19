@@ -6,20 +6,20 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>894</width>
-    <height>680</height>
+    <width>776</width>
+    <height>672</height>
    </rect>
   </property>
   <property name="minimumSize">
    <size>
-    <width>0</width>
-    <height>680</height>
+    <width>610</width>
+    <height>330</height>
    </size>
   </property>
   <property name="maximumSize">
    <size>
-    <width>16777215</width>
-    <height>800</height>
+    <width>800</width>
+    <height>700</height>
    </size>
   </property>
   <property name="windowTitle">
@@ -29,10 +29,10 @@
    <widget class="QFrame" name="frame">
     <property name="geometry">
      <rect>
-      <x>110</x>
+      <x>10</x>
       <y>0</y>
       <width>591</width>
-      <height>321</height>
+      <height>301</height>
      </rect>
     </property>
     <property name="frameShape">
@@ -90,9 +90,17 @@
        <height>280</height>
       </size>
      </property>
+     <property name="font">
+      <font>
+       <family>Chalkboard</family>
+       <pointsize>250</pointsize>
+       <italic>false</italic>
+       <bold>false</bold>
+      </font>
+     </property>
      <property name="styleSheet">
       <string notr="true">background-color: rgb(255, 255, 255);
-font:  280pt &quot;Chalkboard&quot;;
+font:  250pt &quot;Chalkboard&quot;;
 color: black;</string>
      </property>
      <property name="text">
@@ -106,8 +114,8 @@ color: black;</string>
    <widget class="QFrame" name="frame_2">
     <property name="geometry">
      <rect>
-      <x>190</x>
-      <y>350</y>
+      <x>200</x>
+      <y>340</y>
       <width>511</width>
       <height>171</height>
      </rect>
@@ -247,8 +255,8 @@ color: black;</string>
    <widget class="QLabel" name="label_4">
     <property name="geometry">
      <rect>
-      <x>30</x>
-      <y>330</y>
+      <x>40</x>
+      <y>310</y>
       <width>151</width>
       <height>20</height>
      </rect>
@@ -266,9 +274,9 @@ color: black;</string>
    <widget class="QFrame" name="frame_3">
     <property name="geometry">
      <rect>
-      <x>19</x>
-      <y>350</y>
-      <width>161</width>
+      <x>10</x>
+      <y>340</y>
+      <width>181</width>
       <height>171</height>
      </rect>
     </property>
@@ -296,7 +304,7 @@ color: black;</string>
       <rect>
        <x>10</x>
        <y>40</y>
-       <width>141</width>
+       <width>161</width>
        <height>20</height>
       </rect>
      </property>
@@ -311,8 +319,8 @@ color: black;</string>
    <widget class="QLabel" name="label_3">
     <property name="geometry">
      <rect>
-      <x>190</x>
-      <y>330</y>
+      <x>200</x>
+      <y>310</y>
       <width>131</width>
       <height>16</height>
      </rect>
@@ -330,10 +338,10 @@ color: black;</string>
    <widget class="QFrame" name="frame_4">
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>550</y>
-      <width>161</width>
-      <height>91</height>
+      <x>10</x>
+      <y>540</y>
+      <width>181</width>
+      <height>101</height>
      </rect>
     </property>
     <property name="frameShape">
@@ -360,7 +368,7 @@ color: black;</string>
       <rect>
        <x>10</x>
        <y>40</y>
-       <width>141</width>
+       <width>161</width>
        <height>20</height>
       </rect>
      </property>
@@ -375,8 +383,8 @@ color: black;</string>
    <widget class="QLabel" name="label_8">
     <property name="geometry">
      <rect>
-      <x>20</x>
-      <y>530</y>
+      <x>30</x>
+      <y>520</y>
       <width>161</width>
       <height>20</height>
      </rect>
@@ -394,8 +402,8 @@ color: black;</string>
    <widget class="QLabel" name="label_9">
     <property name="geometry">
      <rect>
-      <x>190</x>
-      <y>530</y>
+      <x>200</x>
+      <y>520</y>
       <width>151</width>
       <height>20</height>
      </rect>
@@ -413,10 +421,10 @@ color: black;</string>
    <widget class="QFrame" name="frame_5">
     <property name="geometry">
      <rect>
-      <x>190</x>
-      <y>550</y>
+      <x>200</x>
+      <y>540</y>
       <width>321</width>
-      <height>91</height>
+      <height>101</height>
      </rect>
     </property>
     <property name="frameShape">
@@ -443,7 +451,7 @@ color: black;</string>
       <rect>
        <x>10</x>
        <y>40</y>
-       <width>141</width>
+       <width>151</width>
        <height>20</height>
       </rect>
      </property>
@@ -457,10 +465,10 @@ color: black;</string>
     <widget class="QLabel" name="label_12">
      <property name="geometry">
       <rect>
-       <x>170</x>
+       <x>160</x>
        <y>20</y>
-       <width>81</width>
-       <height>16</height>
+       <width>91</width>
+       <height>20</height>
       </rect>
      </property>
      <property name="text">
@@ -503,10 +511,10 @@ color: black;</string>
    <widget class="QWidget" name="gridLayoutWidget">
     <property name="geometry">
      <rect>
-      <x>730</x>
-      <y>10</y>
+      <x>610</x>
+      <y>210</y>
       <width>160</width>
-      <height>80</height>
+      <height>86</height>
      </rect>
     </property>
     <layout class="QGridLayout" name="gridLayout">
@@ -552,8 +560,8 @@ color: black;</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>894</width>
-     <height>24</height>
+     <width>776</width>
+     <height>22</height>
     </rect>
    </property>
   </widget>
