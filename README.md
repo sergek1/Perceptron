@@ -30,12 +30,9 @@
 
 ## Тестирование
 Рисуем двухцветные изображения от руки:  
-![MLP](screenshots/6.png)
-
-![MLP](screenshots/7.png)
-
-![MLP](screenshots/8.png)
-
+![MLP](screenshots/6.png)  
+![MLP](screenshots/7.png)  
+![MLP](screenshots/8.png)  
 ![MLP](screenshots/9.png)
 
 Как говорили ранее, есть возможность загрузить из файла веса перцептрона.  
